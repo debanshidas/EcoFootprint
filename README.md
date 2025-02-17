@@ -1,6 +1,8 @@
 # 👣 EcoFootprint - Personal Carbon Footprint Calculator
 
-![EcoFootprint](https://img.shields.io/badge/EcoFootprint-Green?style=for-the-badge)
+https://ecofootprint-yypyys4v6baprosu6t9aqr.streamlit.app/
+
+
 
 ## 🚀 Overview
 **EcoFootprint** is a sleek, interactive web application built using Streamlit. It helps users estimate their annual carbon emissions based on their transportation, electricity usage, diet, and waste generation.
