@@ -1,6 +1,6 @@
 # 👣 EcoFootprint - Personal Carbon Footprint Calculator
 
-https://ecofootprint-yypyys4v6baprosu6t9aqr.streamlit.app/
+[Click here to visit EcoFootprint](https://ecofootprint-yypyys4v6baprosu6t9aqr.streamlit.app/
 
 
 
